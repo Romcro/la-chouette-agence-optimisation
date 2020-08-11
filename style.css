@@ -139,7 +139,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(177, 39, 39, 0.6);
+    color: #503107;
 }
 
 .d-bloc .a-btn:hover,
@@ -156,7 +156,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: #1F1F1F;
+    color: #3D3D3D;
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -657,7 +657,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #3D3D3D!important;
 }
 
 .container {
@@ -743,6 +743,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    font-weight: 600;
 }
 
 .portfolio-thumb {
