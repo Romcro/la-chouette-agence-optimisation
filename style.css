@@ -19,6 +19,15 @@ button {
     outline: none!important;
 }
 
+a:focus {
+
+    background-color: orangered !important;
+
+}
+
+
+
+
 blockquote footer {
 
     font-weight: 600;
